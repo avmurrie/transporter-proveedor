@@ -17,10 +17,10 @@ Un servicio es una funcionalidad que permite la conexion con recursos extras com
 > Crear un nuevo servicio con `ionic generate service services/name-service`.
 Esto creara un servicio, archivo .ts, denominado **_name-service_** en el directorio **_services_**.
 
-## Generacion de protectores nuevos
-Los guards en ionic son los encargados de definir si en cierto punto de la aplicacion, visualizaciones, se permite el acceso o no.
+## Generación de protectores nuevos
+Los guards en ionic son los encargados de definir si en cierto punto de la aplicación, visualizaciones, se permite el acceso o no.
 > Crear un nuevo guard con `ionic generate guard guards/name-guard`.
-Esto creara un guard denominado **_name-guard_** en el directorio **_guards_**.
+Esto creará un guard denominado **_name-guard_** en el directorio **_guards_**.
 
 
 
